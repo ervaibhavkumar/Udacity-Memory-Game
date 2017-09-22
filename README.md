@@ -4,6 +4,8 @@
 1. Download or clone the repositoryon your machine.
 2. Extract the .zip file
 3. Open index.html in your browser.
+OR
+Click on this [LINK](https://vaibhav1671998.github.io/Udacity-Memory-Game/) to see the live version of the game .
 
 ## Rules and Regulations :-
 1. You have to match cards with identical face.
